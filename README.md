@@ -138,4 +138,12 @@ This project is licensed under the MIT License.
 ✨ This project highlights my ability to build real-time, full-stack web applications — an essential skill set for modern software development roles.
 
 
+## 📞 Contact
+
+👤 **Omkar Yelsange**  
+💼 **GitHub:** [OmkarYelsange](https://github.com/OmkarYelsange)    
+📧 **Email:** omkaryelsange1010@gmail.com  
+🔗 **Project Repository:** [View on GitHub](https://github.com/OmkarYelsange/AI-ChatBot.git)  
+💬 **LinkedIn:** [Omkar Yelsange](https://www.linkedin.com/in/omkaryelsange)
+
 
