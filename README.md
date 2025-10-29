@@ -124,10 +124,7 @@ To contribute:
 3. Commit your changes (git commit -m 'feat: Add new feature').
 4. Push to your branch (git push origin feature/new-feature).
 5. Open a Pull Request.
-
-📜 License
-This project is licensed under the MIT License.
-
+
 - Acknowledgements
 - Node.js - Backend runtime
 - Express.js - Web framework
