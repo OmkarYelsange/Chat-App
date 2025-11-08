@@ -115,14 +115,6 @@ npm run dev
 - Working with modern tooling like Vite & ESLint.
 - Structuring full-stack projects for scalability and maintainability.
 
-
-- Acknowledgements
-- Node.js - Backend runtime
-- Express.js - Web framework
-- Socket.io - Real-time communication
-- Vite - Build tool
-- ESLint - Code linting
-
 ✨ This project highlights my ability to build real-time, full-stack web applications — an essential skill set for modern software development roles.
 
 
@@ -133,6 +125,7 @@ npm run dev
 📧 **Email:** omkaryelsange1010@gmail.com  
 🔗 **Project Repository:** [View on GitHub](https://github.com/OmkarYelsange/Chat-App.git)  
 💬 **LinkedIn:** [Omkar Yelsange](https://www.linkedin.com/in/omkaryelsange)
+
 
 
 
