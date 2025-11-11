@@ -38,7 +38,7 @@ The core real-time chat window where users exchange messages.
 ---
 
 ## 🧾 About
-**Mini-Chat-App** is a Full-Stack Web application that enables users to connect, register, and communicate instantly.  
+**Chat-App** is a Full-Stack Web application that enables users to connect, register, and communicate instantly.  
 It’s designed with a focus on **scalability, clean code practices, and real-time interactivity**, making it an ideal showcase of **backend + frontend integration skills**.
 
 ---
