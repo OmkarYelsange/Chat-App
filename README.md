@@ -73,8 +73,8 @@ Make sure you have installed:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/OmkarYelsange/Mini-Chat-App
-cd Mini-Chat-App
+git clone https://github.com/OmkarYelsange/Chat-App
+cd Chat-App
 npm install
 ```
 ▶️ Running Locally
