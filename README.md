@@ -1,5 +1,5 @@
 
-# 💬 Mini-Chat-App
+# 💬 Chat-App
 
 A **Real-Time Chat Application** built with **Node.js, Express, and Socket.io**, featuring user authentication, responsive UI, and instant messaging.  
 Designed as a lightweight yet functional project to demonstrate **Full-Stack Web Development Skills** and an understanding of **Real-Time Communication** systems.
