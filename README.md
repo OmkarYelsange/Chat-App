@@ -35,23 +35,7 @@ The core real-time chat window where users exchange messages.
 
 ![Main Chat Interface_2](./preview/Main-Interface-2.png)
 
----
-
-## 📑 Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running Locally](#running-locally)
-- [Usage](#usage)
-- [Learning Outcomes](#learning-outcomes)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
----
+---
 
 ## 🧾 About
 **Mini-Chat-App** is a Full-Stack Web application that enables users to connect, register, and communicate instantly.  
